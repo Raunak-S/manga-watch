@@ -1,0 +1,25 @@
+{
+  "name": "manga-watch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "client": "cd client && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raunak-S/manga-watch.git"
+  },
+  "author": "Raunak Shrestha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Raunak-S/manga-watch/issues"
+  },
+  "homepage": "https://github.com/Raunak-S/manga-watch#readme"
+}
